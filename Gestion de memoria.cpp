@@ -22,4 +22,5 @@ delete[] arreglo;
 cout << "\nDespués de liberar memoria:" << endl;
 mostrarMemoria();
 return 0;
+cout<<"Nueva carpeta:" << endl;
 }
